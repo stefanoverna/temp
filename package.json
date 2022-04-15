@@ -1,0 +1,17 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefano Verna",
+  "license": "ISC",
+  "dependencies": {
+    "@datocms/client": "0.0.1-alpha.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
